@@ -1,4 +1,18 @@
-### Hi there 👋
+# Nice to see you, i'm ✨ Leon Kraim ✨
+### Synonym: Elektroney  
+  
+    
+### Born: February, 2007
+
+ 
+  
+   
+    
+     
+      
+       
+### Technologies ⚡
+
 
 <!--
 **Elektroney/Elektroney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
