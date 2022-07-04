@@ -1,8 +1,8 @@
 # Nice to see you, i'm ✨ Leon Kraim ✨
-### Synonym: Elektroney  
+#### Synonym: Elektroney  
   
     
-### Born: February, 2007
+#### Born: February, 2007
 
  
   
@@ -11,7 +11,7 @@
      
       
        
-### Technologies ⚡
+## Technologies ⚡
 
 
 <!--
