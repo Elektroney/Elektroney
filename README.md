@@ -12,7 +12,7 @@
       
        
 ## Technologies ⚡
-
+Python, Javascript, MySQL, C#, Angular2, Unity 3D 
 
 <!--
 **Elektroney/Elektroney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
