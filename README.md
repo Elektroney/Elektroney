@@ -14,7 +14,7 @@
 ## Technologies ⚡
 Python, Javascript, MySQL, C#, Angular2, Unity 3D 
 
-## Donations 🫴
+## Donations 🤲
 
 
 <!--
