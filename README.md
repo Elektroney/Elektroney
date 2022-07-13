@@ -10,7 +10,10 @@
     
      
       
-       
+## Q&A
+1. No i am not a girl
+2. Yes i do look like Jesus
+
 ## Technologies ⚡
 Python, Javascript, MySQL, C#, Angular2, Unity 3D 
 
