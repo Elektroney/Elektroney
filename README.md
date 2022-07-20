@@ -4,7 +4,7 @@
     
 #### Born: February, 2007
 
- 
+#### Fullstack Dev
   
    
     
@@ -13,7 +13,7 @@
 ## Q&A
 
 ## Technologies ⚡
-Python, Javascript, MySQL, C#, Angular2, Unity 3D 
+Python, Javascript / Node.js, MySQL, C#, Angular2, Unity 3D
 
 ## Donations 🤲
 
