@@ -13,7 +13,7 @@
 ## Q&A
 
 ## Technologies ⚡
-Python, Javascript / Node.js, MySQL, C#, Angular2, Unity 3D
+Python, Javascript / Node.js, Angular2, MySQL, C#, Unity 3D, Blender
 
 ## Donations 🤲
 
