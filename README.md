@@ -4,7 +4,7 @@
     
 #### Born: February, 2007
 
-#### Fullstack Dev
+#### Hobbies: Fullstack and Game development, Microelectronics, Computer Science Research, League of Legends 
   
    
     
