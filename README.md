@@ -1,4 +1,4 @@
-# Nice to see you, i'm ✨ Leon Kraim ✨
+# Nice to see you, I'm ✨ Leon Kraim ✨
 #### Synonym: Elektroney  
   
     
