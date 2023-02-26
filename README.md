@@ -23,6 +23,13 @@ ltc1q8wm9dpca7s2qp4ttz8gh0ad32kqh0rmqux74nk
 
 #### Monero:
 868xTr7k9H4HoDmbQxauB1FSmykJ2LgWcS12XHfcFgDrC9BEEMjKzjH7htj4uTeNFpBrhqFEb5T3h5DSHTD5GvRKUZ7CK9c
+
+
+### SEO Tags 
+jugend , gaming , discord , niedersachsen , hacker \
+hackathon , game jam , gamejam, ludum dare , ludumdare \
+programming , programmieren , programming buddy  \
+leagueoflegends , lol , fun , lower saxony 
 <!--
 **Elektroney/Elektroney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
