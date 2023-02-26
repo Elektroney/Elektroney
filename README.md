@@ -6,7 +6,6 @@
 
 #### Hobbies: Fullstack and Game development, Microelectronics, Computer Science Research, League of Legends 
   
-#### Discord: Elektroney#5031   
     
 
 
