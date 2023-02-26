@@ -6,9 +6,9 @@
 
 #### Hobbies: Fullstack and Game development, Microelectronics, Computer Science Research, League of Legends 
   
-   
+#### Discord: Elektroney#5031   
     
- 
+
 
 ## Technologies ⚡
 Python, Javascript / Node.js, Angular2, MySQL, C#, Unity 3D, Blender, Ghidra
