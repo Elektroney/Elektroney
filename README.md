@@ -28,7 +28,7 @@ ltc1q8wm9dpca7s2qp4ttz8gh0ad32kqh0rmqux74nk
 jugend , gaming , discord , niedersachsen , hacker \
 hackathon , game jam , gamejam, ludum dare , ludumdare \
 programming , programmieren , programming buddy  \
-leagueoflegends , lol , fun , lower saxony 
+leagueoflegends , lol , fun , lower saxony , Leon Kraim , Elektroney
 <!--
 **Elektroney/Elektroney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
