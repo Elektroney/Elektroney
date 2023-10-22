@@ -10,7 +10,7 @@
 
 
 ## Technologies ⚡
-Python, Javascript / Node.js, Angular2, MySQL, C#, Unity 3D, Blender, Ghidra
+Anything aslong as i have the time to learn it
 
 ## Donations 🤲
 
