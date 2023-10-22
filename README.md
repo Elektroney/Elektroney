@@ -10,7 +10,7 @@
 
 
 ## Technologies ⚡
-Anything aslong as i have the time to learn it
+Anything as long as i have the time to learn it
 
 ## Donations 🤲
 
