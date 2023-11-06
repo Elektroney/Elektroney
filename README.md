@@ -5,9 +5,6 @@
 #### Born February, 2007
 
 #### Fullstack and Game development, Microelectronics, CS
-  
-    
-
 
 ## Technologies ⚡
 Anything as long as I have the time to learn it
@@ -24,22 +21,19 @@ ltc1q8wm9dpca7s2qp4ttz8gh0ad32kqh0rmqux74nk
 868xTr7k9H4HoDmbQxauB1FSmykJ2LgWcS12XHfcFgDrC9BEEMjKzjH7htj4uTeNFpBrhqFEb5T3h5DSHTD5GvRKUZ7CK9c
 
 
+
+
+
+
+
 ### SEO Tags 
 jugend , gaming , discord , niedersachsen , hacker \
 hackathon , game jam , gamejam, ludum dare , ludumdare \
 programming , programmieren , programming buddy  \
 leagueoflegends , lol , fun , lower saxony , Leon Kraim , Elektroney
-<!--
-**Elektroney/Elektroney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+      
+> Sollen sich auch alle schämen, die gedankenlos sich der Wunder der Wissenschaft und Technik bedienen und nicht mehr geistig davon erfasst haben als die Kuh von der Botanik der Pflanzen, die sie mit Wohlbehagen frisst
+>
+> -- <cite>Albert Einstein</cite>
