@@ -1,10 +1,10 @@
 # Nice to see you, I'm ✨ Leon Kraim ✨
-#### Synonym: Elektroney  
+#### Elektroney  
   
     
-#### Born: February, 2007
+#### Born February, 2007
 
-#### Hobbies: Fullstack and Game development, Microelectronics, Computer Science Research, League of Legends 
+#### Fullstack and Game development, Microelectronics, CS
   
     
 
