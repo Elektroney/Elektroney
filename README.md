@@ -9,17 +9,6 @@
 ## Technologies ⚡
 Anything as long as I have the time to learn it
 
-## Donations 🤲
-
-#### Ether:
-0x911403006CAAE6b272d2B2f47c4E74472c9D8ABe
-
-#### Litecoin:
-ltc1q8wm9dpca7s2qp4ttz8gh0ad32kqh0rmqux74nk
-
-#### Monero:
-868xTr7k9H4HoDmbQxauB1FSmykJ2LgWcS12XHfcFgDrC9BEEMjKzjH7htj4uTeNFpBrhqFEb5T3h5DSHTD5GvRKUZ7CK9c
-
 
 
 
