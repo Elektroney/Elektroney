@@ -8,10 +8,11 @@
 
   
 ## Technologies ⚡
-Anything as long as I have the time to learn it
-
-# [Portfolio](https://portfolio-elektroney.vercel.app/)
+Anything as long as I have the time to learn it  
+  
+#  [My Portfolio](https://portfolio-elektroney.vercel.app/) 📄
 <br>
+
 
 
 
