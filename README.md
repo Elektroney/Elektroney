@@ -6,11 +6,12 @@
 
 #### Fullstack and Game development, Microelectronics, CS
 
+  
 ## Technologies ⚡
 Anything as long as I have the time to learn it
 
-
-
+# [Portfolio](https://portfolio-elektroney.vercel.app/)
+<br>
 
 
 
