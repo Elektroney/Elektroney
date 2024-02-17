@@ -10,7 +10,7 @@
 ## Technologies ⚡
 Anything as long as I have the time to learn it  
   
-#  [My Portfolio](https://portfolio-elektroney.vercel.app/) 📄
+#  [My Portfolio](https://leonkraims-portfolio.vercel.app/) 📄
 
 
 
