@@ -8,7 +8,7 @@
 
   
 ## Technologies ⚡
-Anything as long as I have the time to learn it  
+Unity (yes im still using that), Blender
   
 #  [My Portfolio](https://leonkraims-portfolio.vercel.app/) 📄
 
