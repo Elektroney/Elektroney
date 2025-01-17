@@ -18,7 +18,7 @@ Unity (yes im still using that), Blender
 
 
 ### SEO Tags 
-jugend , gaming , discord , niedersachsen , hacker \
+gaming , discord , niedersachsen , hacker \
 hackathon , game jam , gamejam, ludum dare , ludumdare \
 programming , programmieren , programming buddy  \
 leagueoflegends , lol , fun , lower saxony , Leon Kraim , Elektroney
