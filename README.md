@@ -4,11 +4,11 @@
     
 #### Born February, 2007
 
-#### Fullstack and Game development, Microelectronics, CS
+#### Fullstack and Game development, Microelectronics, Computer Science
 
   
 ## Technologies ⚡
-Unity (yes im still using that), Blender
+Unity, Blender, C#, python, nodejs, LTspice
   
 #  [My Portfolio](https://leonkraims-portfolio.vercel.app/) 📄
 
@@ -16,12 +16,12 @@ Unity (yes im still using that), Blender
 
 
 
-
-### SEO Tags 
-gaming , discord , niedersachsen , hacker \
-hackathon , game jam , gamejam, ludum dare , ludumdare \
-programming , programmieren , programming buddy  \
+<!-- SEO Tags 
+gaming , discord , niedersachsen , hacker 
+hackathon , game jam , gamejam, ludum dare , ludumdare 
+programming , programmieren , programming buddy  
 leagueoflegends , lol , fun , lower saxony , Leon Kraim , Elektroney
+-->
 
 <br>
       
